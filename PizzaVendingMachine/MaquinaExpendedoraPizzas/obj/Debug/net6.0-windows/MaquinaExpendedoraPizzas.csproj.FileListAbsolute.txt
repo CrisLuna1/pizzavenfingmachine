@@ -1,0 +1,36 @@
+C:\Users\Cluna\Desktop\PizzaVendingMachine\MaquinaExpendedoraPizzas\bin\Debug\net6.0-windows\MaquinaExpendedoraPizzas.exe
+C:\Users\Cluna\Desktop\PizzaVendingMachine\MaquinaExpendedoraPizzas\bin\Debug\net6.0-windows\MaquinaExpendedoraPizzas.deps.json
+C:\Users\Cluna\Desktop\PizzaVendingMachine\MaquinaExpendedoraPizzas\bin\Debug\net6.0-windows\MaquinaExpendedoraPizzas.runtimeconfig.json
+C:\Users\Cluna\Desktop\PizzaVendingMachine\MaquinaExpendedoraPizzas\bin\Debug\net6.0-windows\MaquinaExpendedoraPizzas.dll
+C:\Users\Cluna\Desktop\PizzaVendingMachine\MaquinaExpendedoraPizzas\bin\Debug\net6.0-windows\MaquinaExpendedoraPizzas.pdb
+C:\Users\Cluna\Desktop\PizzaVendingMachine\MaquinaExpendedoraPizzas\obj\Debug\net6.0-windows\MaquinaExpendedoraPizzas.csproj.AssemblyReference.cache
+C:\Users\Cluna\Desktop\PizzaVendingMachine\MaquinaExpendedoraPizzas\obj\Debug\net6.0-windows\MaquinaExpendedoraPizzas.Form1.resources
+C:\Users\Cluna\Desktop\PizzaVendingMachine\MaquinaExpendedoraPizzas\obj\Debug\net6.0-windows\MaquinaExpendedoraPizzas.Properties.Resources.resources
+C:\Users\Cluna\Desktop\PizzaVendingMachine\MaquinaExpendedoraPizzas\obj\Debug\net6.0-windows\MaquinaExpendedoraPizzas.csproj.GenerateResource.cache
+C:\Users\Cluna\Desktop\PizzaVendingMachine\MaquinaExpendedoraPizzas\obj\Debug\net6.0-windows\MaquinaExpendedoraPizzas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cluna\Desktop\PizzaVendingMachine\MaquinaExpendedoraPizzas\obj\Debug\net6.0-windows\MaquinaExpendedoraPizzas.AssemblyInfoInputs.cache
+C:\Users\Cluna\Desktop\PizzaVendingMachine\MaquinaExpendedoraPizzas\obj\Debug\net6.0-windows\MaquinaExpendedoraPizzas.AssemblyInfo.cs
+C:\Users\Cluna\Desktop\PizzaVendingMachine\MaquinaExpendedoraPizzas\obj\Debug\net6.0-windows\MaquinaExpendedoraPizzas.csproj.CoreCompileInputs.cache
+C:\Users\Cluna\Desktop\PizzaVendingMachine\MaquinaExpendedoraPizzas\obj\Debug\net6.0-windows\MaquinaExpendedoraPizzas.dll
+C:\Users\Cluna\Desktop\PizzaVendingMachine\MaquinaExpendedoraPizzas\obj\Debug\net6.0-windows\refint\MaquinaExpendedoraPizzas.dll
+C:\Users\Cluna\Desktop\PizzaVendingMachine\MaquinaExpendedoraPizzas\obj\Debug\net6.0-windows\MaquinaExpendedoraPizzas.pdb
+C:\Users\Cluna\Desktop\PizzaVendingMachine\MaquinaExpendedoraPizzas\obj\Debug\net6.0-windows\MaquinaExpendedoraPizzas.genruntimeconfig.cache
+C:\Users\Cluna\Desktop\PizzaVendingMachine\MaquinaExpendedoraPizzas\obj\Debug\net6.0-windows\ref\MaquinaExpendedoraPizzas.dll
+C:\Users\Cluna\Desktop\Git Clones\PizzaVendingMachine\MaquinaExpendedoraPizzas\bin\Debug\net6.0-windows\MaquinaExpendedoraPizzas.exe
+C:\Users\Cluna\Desktop\Git Clones\PizzaVendingMachine\MaquinaExpendedoraPizzas\bin\Debug\net6.0-windows\MaquinaExpendedoraPizzas.deps.json
+C:\Users\Cluna\Desktop\Git Clones\PizzaVendingMachine\MaquinaExpendedoraPizzas\bin\Debug\net6.0-windows\MaquinaExpendedoraPizzas.runtimeconfig.json
+C:\Users\Cluna\Desktop\Git Clones\PizzaVendingMachine\MaquinaExpendedoraPizzas\bin\Debug\net6.0-windows\MaquinaExpendedoraPizzas.dll
+C:\Users\Cluna\Desktop\Git Clones\PizzaVendingMachine\MaquinaExpendedoraPizzas\bin\Debug\net6.0-windows\MaquinaExpendedoraPizzas.pdb
+C:\Users\Cluna\Desktop\Git Clones\PizzaVendingMachine\MaquinaExpendedoraPizzas\obj\Debug\net6.0-windows\MaquinaExpendedoraPizzas.csproj.AssemblyReference.cache
+C:\Users\Cluna\Desktop\Git Clones\PizzaVendingMachine\MaquinaExpendedoraPizzas\obj\Debug\net6.0-windows\MaquinaExpendedoraPizzas.Form1.resources
+C:\Users\Cluna\Desktop\Git Clones\PizzaVendingMachine\MaquinaExpendedoraPizzas\obj\Debug\net6.0-windows\MaquinaExpendedoraPizzas.Properties.Resources.resources
+C:\Users\Cluna\Desktop\Git Clones\PizzaVendingMachine\MaquinaExpendedoraPizzas\obj\Debug\net6.0-windows\MaquinaExpendedoraPizzas.csproj.GenerateResource.cache
+C:\Users\Cluna\Desktop\Git Clones\PizzaVendingMachine\MaquinaExpendedoraPizzas\obj\Debug\net6.0-windows\MaquinaExpendedoraPizzas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cluna\Desktop\Git Clones\PizzaVendingMachine\MaquinaExpendedoraPizzas\obj\Debug\net6.0-windows\MaquinaExpendedoraPizzas.AssemblyInfoInputs.cache
+C:\Users\Cluna\Desktop\Git Clones\PizzaVendingMachine\MaquinaExpendedoraPizzas\obj\Debug\net6.0-windows\MaquinaExpendedoraPizzas.AssemblyInfo.cs
+C:\Users\Cluna\Desktop\Git Clones\PizzaVendingMachine\MaquinaExpendedoraPizzas\obj\Debug\net6.0-windows\MaquinaExpendedoraPizzas.csproj.CoreCompileInputs.cache
+C:\Users\Cluna\Desktop\Git Clones\PizzaVendingMachine\MaquinaExpendedoraPizzas\obj\Debug\net6.0-windows\MaquinaExpendedoraPizzas.dll
+C:\Users\Cluna\Desktop\Git Clones\PizzaVendingMachine\MaquinaExpendedoraPizzas\obj\Debug\net6.0-windows\refint\MaquinaExpendedoraPizzas.dll
+C:\Users\Cluna\Desktop\Git Clones\PizzaVendingMachine\MaquinaExpendedoraPizzas\obj\Debug\net6.0-windows\MaquinaExpendedoraPizzas.pdb
+C:\Users\Cluna\Desktop\Git Clones\PizzaVendingMachine\MaquinaExpendedoraPizzas\obj\Debug\net6.0-windows\MaquinaExpendedoraPizzas.genruntimeconfig.cache
+C:\Users\Cluna\Desktop\Git Clones\PizzaVendingMachine\MaquinaExpendedoraPizzas\obj\Debug\net6.0-windows\ref\MaquinaExpendedoraPizzas.dll
